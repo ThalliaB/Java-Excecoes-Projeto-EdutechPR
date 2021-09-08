@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="SaldoInsuficienteException"/>
     <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
 </qualifiedTypeNameHistroy>
